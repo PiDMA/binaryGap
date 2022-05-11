@@ -11,7 +11,7 @@ public class Main {
         char[] numChar = binaryString.toCharArray();
 
         for (char c: numChar) {
-            if(c == '1'){
+            if(c == '0'){
                 zeroes++;
             }
         }
